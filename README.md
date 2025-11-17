@@ -1,4 +1,4 @@
-<h1>📝 Gerenciador de Tarefas</h1>
+<h1>📝 Gerenciador de Tarefas React</h1>
 
 <p>Um projeto simples de um "To-Do List" (Gerenciador de Tarefas) criado com React e Vite. Permite ao usuário adicionar, excluir, completar e ver detalhes de tarefas. O projeto utiliza o localStorage do navegador para persistir os dados, garantindo que as tarefas não sejam perdidas ao recarregar a página.</p>
 
