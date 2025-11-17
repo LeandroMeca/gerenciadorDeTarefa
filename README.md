@@ -31,7 +31,7 @@
 <p>Para rodar este projeto localmente, siga os passos abaixo:</p>
 
 <h3>Clone o repositório</h3>
-<pre><code>git clone https://[URL_DO_SEU_REPOSITORIO_AQUI]</code></pre>
+<pre><code>git clone https://github.com/LeandroMeca/gerenciadorDeTarefa.git</code></pre>
 
 <h3>Navegue até o diretório do projeto</h3>
 <pre><code>cd [NOME_DO_SEU_PROJETO]</code></pre>
